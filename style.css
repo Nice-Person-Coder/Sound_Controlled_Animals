@@ -1,0 +1,39 @@
+body{
+    font-family: 'PT Serif', serif;
+    background: cyan;
+}
+
+.header_div{
+    background-color:aliceblue;
+    color:#0d9dbd;
+    font-weight:bolder;
+}
+
+.header_div p{
+    font-family: 'Dekko', cursive;
+    color:black;
+    letter-spacing: 2px;
+    font-size:18px;
+    font-weight:bolder;
+}
+
+.main_div button{
+    font-family: 'Asar', serif;
+    margin-top: 30px;
+    background-color:#02648b ;
+    width:130;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:#848884;
+    bottom:0;
+    width:100%;
+    font-size: 25px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
